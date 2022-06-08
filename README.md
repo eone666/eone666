@@ -20,5 +20,5 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Postrgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# CV
+## CV
 [🇷🇺  Russian](https://raw.githubusercontent.com/eone666/CV/main/CV.pdf)
