@@ -17,7 +17,7 @@
 
 ## Most used languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eone666)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eone666&layout=compact&theme=codeSTACKr)
 
 ## Contact
 
@@ -25,4 +25,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eone.ukg@gmail.com)
 
 ## CV
+![hh](https://img.shields.io/badge/HeadHunter-#d6001c?style=for-the-badge&logo=HH&logoColor=white)
+![Habr Career]()
+
 [🇷🇺  Russian](https://raw.githubusercontent.com/eone666/CV/main/CV.pdf)
