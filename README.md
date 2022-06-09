@@ -25,7 +25,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eone.ukg@gmail.com)
 
 ## CV
-![hh](https://img.shields.io/badge/HeadHunter-#d6001c?style=for-the-badge&logo=HH&logoColor=white)
-![Habr Career]()
 
-[🇷🇺  Russian](https://raw.githubusercontent.com/eone666/CV/main/CV.pdf)
+[PDF RU](https://raw.githubusercontent.com/eone666/CV/main/CV.pdf)
+
+[HH RU](https://hh.kz/resume/67ba7803ff0af37f680039ed1f66304e446c58)
+
+[Habr Career RU](https://career.habr.com/eone666)
