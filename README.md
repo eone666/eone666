@@ -31,3 +31,31 @@
 [HH RU](https://hh.kz/resume/67ba7803ff0af37f680039ed1f66304e446c58)
 
 [Habr Career RU](https://career.habr.com/eone666)
+
+
+## Location
+
+Oskemen, Kazakhstan
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Country": "Kazakhstan",
+        "City": "Oskemen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "82.605774","49.958931"
+        ]
+      }
+    }
+  ]
+}
+```
+
