@@ -33,9 +33,10 @@
 
 ### Location:
 
-Oskemen, Kazakhstan
-
-```geojson
+<details>
+  <summary>Oskemen, Kazakhstan</summary>
+  
+  ```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -56,4 +57,6 @@ Oskemen, Kazakhstan
   ]
 }
 ```
+  
+</details>
 
