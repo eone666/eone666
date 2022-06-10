@@ -2,7 +2,7 @@
 
 <h2 align="center">Frontend Developer</h3>
 
-### Languages and tools
+### Languages and tools:
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
@@ -19,12 +19,12 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eone666&layout=compact&theme=codeSTACKr)
 
-### Contact
+### Contact:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eone666)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eone.ukg@gmail.com)
 
-### CV
+### CV:
 
 [PDF RU](https://raw.githubusercontent.com/eone666/CV/main/CV.pdf)
 
@@ -33,7 +33,7 @@
 [Habr Career RU](https://career.habr.com/eone666)
 
 
-### Location
+### Location:
 
 Oskemen, Kazakhstan
 
