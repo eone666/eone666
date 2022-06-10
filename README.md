@@ -36,7 +36,7 @@
 
 ![Nvidia RTX 3070](https://img.shields.io/badge/NVIDA-RTX_3070-%2376b900?style=for-the-badge&logo=nvidia)
 ![AMD Ryzen 5 2600](https://img.shields.io/badge/AMD-Ryzen_5_2600-%23dd0833?style=for-the-badge&logo=amd)
-![16 GB DDR4](https://img.shields.io/badge/16_GB-DDR4-%23db241d?style=for-the-badge&logo=kingston-technology)
+![HyperX 16 GB DDR4](https://img.shields.io/badge/HyperX_16_GB-DDR4-%23db241d?style=for-the-badge&logo=kingston-technology)
 
 ### Location:
 
