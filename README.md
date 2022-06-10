@@ -33,7 +33,7 @@
 ### PC specs:
 
 ![Nvidia RTX 3070](https://img.shields.io/badge/NVIDA-RTX_3070-%2376b900?style=for-the-badge&logo=nvidia)
-![AMD Ryzen 5 2600](https://img.shields.io/badge/Ryzen-5_2600-%23dd0833?style=for-the-badge&logo=amd)
+![AMD Ryzen 5 2600](https://img.shields.io/badge/Ryzen_5-2600-%23dd0833?style=for-the-badge&logo=amd)
 ![HyperX 16 GB DDR4](https://img.shields.io/badge/HyperX-16_GB_DDR4-%23db241d?style=for-the-badge&logo=kingston-technology)
 
 ### Location:
