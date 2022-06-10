@@ -19,8 +19,6 @@
 [![Postrgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eone666&layout=compact&theme=codeSTACKr)
-
 ### Contact:
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/eone666)
