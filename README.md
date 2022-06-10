@@ -1,6 +1,6 @@
 # Hello, world! I'm Frontend Developer.
 
-## Stack
+## Languages and Tools
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
