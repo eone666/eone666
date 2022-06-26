@@ -36,32 +36,3 @@
 [![AMD Ryzen 5 2600](https://img.shields.io/badge/Ryzen_5-2600-%23dd0833?style=for-the-badge&logo=amd)](#)
 [![HyperX 16 GB DDR4](https://img.shields.io/badge/HyperX-16_GB_DDR4-%23db241d?style=for-the-badge&logo=kingston-technology)](#)
 
-### Location:
-
-<details>
-  <summary>Oskemen, Kazakhstan</summary>
-  
-  ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "Country": "Kazakhstan",
-        "City": "Oskemen"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "82.605774","49.958931"
-        ]
-      }
-    }
-  ]
-}
-```
-  
-</details>
-
