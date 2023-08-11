@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! I'm Ivan.</h1>
 
-Hi there! I am a frontend developer with a passion for gaming and design. I love creating beautiful and engaging user experiences on the web, and I'm constantly pushing myself to improve my skills and knowledge. In my free time, you can find me exploring new games, working on personal projects, or tinkering with design ideas.
+Hi there! I am a frontend developer with a passion for gaming and design. I love creating beautiful and engaging user experiences on the web, and I'm constantly pushing myself to improve my skills and knowledge. 
 
 ### Languages and tools:
 
