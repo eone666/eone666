@@ -33,8 +33,8 @@ Hi there! I am a frontend developer with a passion for gaming and design. I love
 
 ### PC specs:
 
-[![Asus TUF B650M Plus](https://img.shields.io/badge/TUF B650M Plus-%23333333?style=for-the-badge&logo=ASUS)](#)
-[![Nvidia RTX 3070](https://img.shields.io/badge/NVIDA-RTX_3070-%2376b900?style=for-the-badge&logo=nvidia)](#)
+[![Asus TUF B650M Plus](https://img.shields.io/badge/ASUS-TUF%20B650M%20Plus-%23ff9e1b?style=for-the-badge&logo=asus)](#)
+[![Nvidia RTX 3070](https://img.shields.io/badge/NVIDIA-RTX_3070-%2376b900?style=for-the-badge&logo=nvidia)](#)
 [![AMD Ryzen 5 9600X](https://img.shields.io/badge/Ryzen_5-9600X-%23dd0833?style=for-the-badge&logo=amd)](#)
 [![Kingston Fury 32 GB DDR5](https://img.shields.io/badge/Fury-32_GB_DDR5-%23db241d?style=for-the-badge&logo=kingston-technology)](#)
 
